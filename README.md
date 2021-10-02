@@ -7,7 +7,7 @@ This is a web app that helps the user to create, store and delete books. THis pr
 Since I am in my early stages of learning JavaScript, I did find this quite challenging so as usual, youtube and google to the rescue. I did make use of this concept that is new to me, Bootstrap. This saved me all the time i would have used for CSS styling and stuff like that.
 
 ## How It Looks
-
+![](https://github.com/neophyte-programmer/bookListWebApp/blob/main/picture.png?raw=true)
 
 ## Check It Out
 Live Site URL: [Live Site]()
