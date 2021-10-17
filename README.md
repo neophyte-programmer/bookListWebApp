@@ -27,7 +27,7 @@ Since I am in my early stages of learning JavaScript, I did find this quite chal
 </a> <br>
 
 ## Check It Out
-Live Site URL: [Live Site](https://vibrant-dubinsky-6712ec.netlify.app/)
+Live Site URL: [Live Site](https://nutifafasbooklist.netlify.app/)
 
 ## How It Looks
 ![](https://github.com/neophyte-programmer/bookListWebApp/blob/main/picture.png?raw=true)
